@@ -1,5 +1,4 @@
 import datetime
-
 from icecream import ic
 
 def getHowDaysInLeapYear(year: int = 0) -> int:
